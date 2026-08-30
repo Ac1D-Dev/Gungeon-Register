@@ -16,7 +16,7 @@ Suivi de progression en direct pour **Enter the Gungeon** : objets et armes déc
 
 **Installation manuelle :** extrayez le contenu de cette archive dans `BepInEx\plugins\` (créez un sous-dossier `Gungeon_Register`, ou utilisez celui déjà présent dans l'archive).
 
-Le mod fonctionne seul dès l'installation : les données sont écrites dans de simples fichiers JSON, consultables sans rien d'autre. L'application de bureau compagnon **Le Registre du Gungeon** (`RegistreDuGungeon.exe`) est incluse dans ce package et se lance automatiquement avec le jeu — code source complet disponible ici pour les curieux : https://github.com/Ac1D-Dev/Gungeon-Register. Pour désactiver le lancement automatique, mettez `AutoLaunchApp` à `false` dans le fichier de config généré après le premier lancement (voir Configuration ci-dessous).
+Le mod fonctionne seul dès l'installation : les données sont écrites dans de simples fichiers JSON, consultables sans rien d'autre. L'application de bureau compagnon **Le Registre du Gungeon** (`RegistreDuGungeon.exe`) est incluse dans ce package et se lance automatiquement avec le jeu — EXE disponible juste ICI : [https://github.com/Ac1D-Dev/Gungeon-Register](https://github.com/Ac1D-Dev/Gungeon-Register/releases/tag/2.7.2). Pour désactiver le lancement automatique, mettez `AutoLaunchApp` à `false` dans le fichier de config généré après le premier lancement (voir Configuration ci-dessous).
 
 ## Configuration
 
